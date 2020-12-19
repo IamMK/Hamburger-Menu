@@ -1,0 +1,17 @@
+@import 'vars';
+@import 'menu';
+
+body{
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: inherit;
+    list-style-type: inherit;
+    text-decoration: inherit;
+    color: inherit;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+  }
